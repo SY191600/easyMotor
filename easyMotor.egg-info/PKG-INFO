@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: easyMotor
+Version: 0.1.0
+Summary: 永磁电机电磁力时空阶次分析工具
+Author-email: sunyun <1512258082@qq.com>
+Project-URL: Homepage, https://github.com/你的用户名/easyMotor
+Project-URL: Bug Tracker, https://github.com/你的用户名/easyMotor/issues
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.21
+Requires-Dist: matplotlib>=3.5
+Requires-Dist: pandas>=1.3

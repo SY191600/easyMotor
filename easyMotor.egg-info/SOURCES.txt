@@ -1,0 +1,8 @@
+pyproject.toml
+easyMotor/__init__.py
+easyMotor/core.py
+easyMotor.egg-info/PKG-INFO
+easyMotor.egg-info/SOURCES.txt
+easyMotor.egg-info/dependency_links.txt
+easyMotor.egg-info/requires.txt
+easyMotor.egg-info/top_level.txt
